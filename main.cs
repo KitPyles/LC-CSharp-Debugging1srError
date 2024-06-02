@@ -8,8 +8,7 @@ class MainClass {
     bool launchReady = false;
     int fuelLevel = 17000;
 
-    if (fuelLevel >= 20000 
-    { 
+    if (fuelLevel >= 20000) { 
       Console.WriteLine("Fuel level cleared.");
       Console.WriteLine(!launchReady);
     } 

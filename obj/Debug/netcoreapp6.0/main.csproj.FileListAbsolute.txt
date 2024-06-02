@@ -1,0 +1,15 @@
+/home/runner/Debug1stSyntaxError-CSharp/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/Debug1stSyntaxError-CSharp/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Debug1stSyntaxError-CSharp/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/Debug1stSyntaxError-CSharp/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/Debug1stSyntaxError-CSharp/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/Debug1stSyntaxError-CSharp/bin/Debug/netcoreapp6.0/main
+/home/runner/Debug1stSyntaxError-CSharp/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/Debug1stSyntaxError-CSharp/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/Debug1stSyntaxError-CSharp/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/Debug1stSyntaxError-CSharp/bin/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Debug1stSyntaxError-CSharp/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/Debug1stSyntaxError-CSharp/obj/Debug/netcoreapp6.0/main.dll
+/home/runner/Debug1stSyntaxError-CSharp/obj/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Debug1stSyntaxError-CSharp/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/Debug1stSyntaxError-CSharp/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
